@@ -225,7 +225,8 @@ function create_config( )
     "all",
     "leave_ban",
     "admin",
-    "supergap"},
+    "supergap"
+    },
     sudo_users = {104583328},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
